@@ -1,0 +1,11 @@
+*.log
+*.aux
+*.hi
+*.o
+*.dvi
+*.bak
+DocRholang.txt
+rholang.dtd
+rholint
+ParRholang.hs
+LexRholang.hs
