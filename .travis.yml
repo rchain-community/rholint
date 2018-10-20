@@ -7,5 +7,6 @@ install:
   - cabal install alex happy aeson
 
 script:
+  - export PATH="$HOME/.cabal/bin:$PATH"
   - make
 
