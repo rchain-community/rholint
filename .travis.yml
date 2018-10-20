@@ -1,8 +1,7 @@
 language: haskell
 ghc:
-  - "8.5"
+  - "7.10"
   - "8.4"
-  - "8.3"
 
 install:
   - cabal install alex happy aeson
